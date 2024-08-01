@@ -140,7 +140,7 @@
     justify-content: space-between;
     align-items: center;
 }
-.stay-in-touch .left  {
+.stay-in-touch .left {
     width: 50%;
 }
 .stay-in-touch .right {
@@ -148,7 +148,14 @@
     color: #8d8d8d;
 }
 
-.right .right__title{
+.right .right__title {
     font-weight: 600;
     font-size: 30px;
+}
+.right__footer {
+    display: flex;
+    gap: 20px;
+}
+.right__footer .social i {
+    color: #e76f51;
 }
