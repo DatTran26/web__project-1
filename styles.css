@@ -151,10 +151,53 @@
     font-weight: 600;
     font-size: 30px;
 }
+
+.right .right__description{
+    margin: 20px 0;
+}
 .right__footer {
     display: flex;
     gap: 20px;
 }
 .right__footer .social i {
     color: #e76f51;
+
+
 }
+.right__footer .app h4,
+.right__footer .social h4{
+    margin-bottom: 20px;
+}
+
+
+/* FOOTER */
+
+.footer{
+    margin-bottom: 500px;
+}
+
+
+.footer__body{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.footer__body .left{
+    width: 40%;
+
+
+}
+.footer__body .right{
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer .left h4,
+.footer .right h4{
+    margin-bottom: 20px ;
+}
+
+
