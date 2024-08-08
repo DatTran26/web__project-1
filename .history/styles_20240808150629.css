@@ -29,7 +29,7 @@
     background-image: url(./img/BG.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    /* background-position: center; */
 }
 /* CAROUSEL */
 
