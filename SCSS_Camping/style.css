@@ -17,6 +17,7 @@ body {
 }
 
 .gallery {
+  height: 600px;
   background-image: url("./img/BG.png");
   background-repeat: no-repeat;
   background-position: center;
