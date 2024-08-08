@@ -192,9 +192,9 @@
     justify-content: space-between;
 }
 
-.footer .left,.right{
+/* .footer .left,.right{
     padding: 30px 50px ;
-}
+} */
 .footer .left h4,
 .footer .right h4 {
     margin-bottom: 20px;
